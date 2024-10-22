@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siatemen.github.io/siatemen.txt.gz
+Sitemap: https://siatemen.github.io/app/siatemen.txt.gz
+Sitemap: https://siatemen.github.io/assets/siatemen.txt.gz
+Sitemap: https://siatemen.github.io/css/siatemen.txt.gz
+Sitemap: https://siatemen.github.io/includes/siatemen.txt.gz
+Sitemap: https://siatemen.github.io/item/siatemen.txt.gz
+Sitemap: https://siatemen.github.io/src/siatemen.txt.gz
